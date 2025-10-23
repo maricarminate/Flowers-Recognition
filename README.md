@@ -687,6 +687,6 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 **🌸 Versão Corrigida - Modelo Balanceado e Otimizado 🌸**
 
-Feito com ❤️ e 🤖 por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ e 🤖 por [Mariana S Carminate](https://github.com/maricarminate)
 
 </div>
