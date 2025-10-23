@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Dados
+flowers/
+data/
+*.jpg
+*.jpeg
+*.png
+
+# Modelos
+modelos/
+*.keras
+*.h5
+
+# Resultados
+resultados/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
